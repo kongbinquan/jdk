@@ -1,3 +1,3 @@
 # Readme
 
-Oracle jdk 1.8 from centos 
+Oracle jdk 1.7 from centos 
